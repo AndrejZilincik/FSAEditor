@@ -1,0 +1,8 @@
+state syd 188 332
+state test 549 310
+state adl 14 314
+state mel 375 314
+transition syd ev adl
+final adl
+transition mel ev syd
+initial mel
